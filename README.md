@@ -282,7 +282,7 @@ Analyzed 12 months of real business data with Pareto, ABC, and correlation analy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A001F)](https://www.linkedin.com/in/tripurari-kumar-439132207/)
 [![GitHub](https://img.shields.io/badge/GitHub-tripurari2004-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0A001F)](https://github.com/tripurari2004)
-[![GitHub](https://img.shields.io/badge/GitHub-tripurari2004-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0A001F)](https://github.com/23f2003868)
+[![GitHub](https://img.shields.io/badge/GitHub-23f2003868-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0A001F)](https://github.com/23f2003868)
 [![Email](https://img.shields.io/badge/Gmail-tripurarikumar18feb-F0ABFC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A001F)](mailto:tripurarikumar18feb@gmail.com)
 
 <br/>
