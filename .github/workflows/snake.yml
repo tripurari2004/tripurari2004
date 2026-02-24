@@ -1,17 +1,16 @@
 name: Generate Snake Animation
 
 on:
-  # Runs automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
-
-  # Allows manual trigger from GitHub Actions tab
-  workflow_dispatch:
-
-  # Also runs on every push to main (so snake updates with new commits)
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:        # Manual trigger from Actions tab
   push:
     branches:
       - main
+
+# ✅ FIX: Grant write permission so the action can push to the output branch
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -36,5 +35,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true   # ✅ Prevents force-push conflicts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
